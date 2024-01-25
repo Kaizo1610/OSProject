@@ -2,11 +2,11 @@
 
 Group Name: Boboiboy
 
-Section: __Fill your class section__. 
+Section: 1
 
 Team Mates:
 1. Mohamad Aiman Akim Bin Adanan (2113823)
-2. __Fill name__ and __matric no__
+2. Marjan and __matric no__
 3. __Fill name__ and __matric no__
 
 ## Rules
