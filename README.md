@@ -25,12 +25,12 @@ Team Mates:
 ***Questions:***
 
 1. What is the link of the fork OSProject in your repository. ***(1 mark)***
-<p>[OSProject Repository](https://github.com/Kaizo1610/OSProject)</p><br>
+    <p>[OSProject Repository](https://github.com/Kaizo1610/OSProject)</p><br>
 
-2. How many files and folders are in this repository. ***(1 mark)***
+2. How many files and folders are in this repository. ***(1 mark)***<br>
 <img src="./images/q2(files).png" ><br>
-<p>Files = 289</p>
-<p>Folders = 175</p><br>
+    <p>Files = 289</p>
+    <p>Folders = 175</p><br>
 
 
 ## Exploring github codespaces
@@ -133,7 +133,7 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
  = /dev/loop3
 <br>
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** <br>
- = 18~22.04.1-Ubuntu
+ = 18~22.04.1-Ubuntu <br>
  = x86_64 architecture
 <br>
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** <br>
@@ -230,8 +230,8 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 
 1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)***<br>
 <img src="./images/q1(permission).png" ><br>
-<p>User = codespace</p>
-<p>Group = codespace</p><br>
+    <p>User = codespace</p>
+    <p>Group = codespace</p><br>
 3. Can you change the permission of the files to user codespace.  You will need this to be able to commit and get points for this question. ***(2 mark)***
 <img src="./images/q2(permission).png" ><br>
 
@@ -268,8 +268,8 @@ docker run --detach -v /workspaces/OSProject/webpage:/usr/local/apache2/htdocs/ 
 
 1. What is the permission of folder /usr/local/apache/htdocs and what user and group owns the folder? . ***(2 mark)***
 <img src="./images/q1(usergroup).png" ><br>
-<p>User = root</p>
-<p>Group = root</p><br>
+    <p>User = root</p>
+    <p>Group = root</p><br>
 2. What port is the apache web server running. ***(1 mark)***
 <img src="./images/q2(apache).png" ><br>
 3. What port is open for http protocol on the host machine? ***(1 mark)***
