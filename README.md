@@ -147,6 +147,7 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 Processor 1- 3131.957 MHz <br>
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** <br>
     = PID - 523 <br>
+    
 ## Running your own container instance.
 
 1. At the terminal, run a linux instance. By typing the following command. 
