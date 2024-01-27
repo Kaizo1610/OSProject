@@ -122,19 +122,25 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 10. Run the command **uname -a**. ***(1 mark)***
 <img src="./images/q10.png" ><br>
 11. What is the available free memory in the system. ***(1 mark)*** 
-
+swap
 <br>
 13. What is the available disk space mounted on /workspace. ***(1 mark)***
-
+/dev/loop3
 <br>
 15. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)***
-
+18~22.04.1-Ubuntu
+x86_64 architecture
 <br>
-17. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
-18. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-19. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-20. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+17. What is the difference between **ls** vs **ls -asl**. ***(1 mark)***
+The basic ls command lists files and directories in the current directory.It provides a simple listing, showing only the names of files and directories.
+while The ls -asl command provides a more detailed listing of files and directories.
+<br>
+19. What is the TLB size of the Virtual CPU. ***(1 mark)***
+2560 4K pages <br>
+21. What is the CPU speed of the Virtual CPU. ***(1 mark)***
 
+23. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+PID - 523 <br>
 ## Running your own container instance.
 
 1. At the terminal, run a linux instance. By typing the following command. 
