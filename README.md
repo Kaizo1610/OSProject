@@ -73,7 +73,7 @@ RAM: 8 GB
 Disk: 64 GB
 vCPU: 4.
 
-3. Why must we commit and sync our current work on source control? ***(1 mark)***.
+3. Why must we commit and sync our current work on source control? ***(1 mark)***.<br>
 = Committing and syncing current work on source control is crucial for several reasons:
 
 Version Control: It helps maintain a history of changes, enabling you to revert to previous states if needed.
