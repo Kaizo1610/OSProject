@@ -57,9 +57,9 @@ Team Mates:
 
 ***Questions:***
 
- 1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***.
+ 1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***.<br>
    = Ubuntu Linux.
- 2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***.
+ 2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***.<br>
    = When running GitHub Codespaces, you have two options for configuration:
 
 Standard Configuration:
