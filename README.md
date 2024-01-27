@@ -7,7 +7,7 @@ Section: 1
 Team Mates:
 1. Mohamad Aiman Akim Bin Adanan (2113823)
 2. Marjan Syamimi Binti Mohd Rosdi (2116018)
-3. Mazidah Aiman binti Awang (2118882)
+3. Mazidah Aiman Binti Awang (2118882)
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
