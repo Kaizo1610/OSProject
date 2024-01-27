@@ -187,10 +187,12 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 
 ***Questions:***
 
-1. Are files in the container persistent. Why not?. ***(1 mark)***
-    __No, because after deleting a container in GitHub, the files inside the container are not persistent. Deleting a container typically removes all data and files associated with that container, so it's essential to ensure to have a backup of any important files before deleting a container.__.
-2. Can we run two, or three instances of debian linux? . ***(1 mark)***
-   __=Yes, you can run multiple instances of Debian Linux on separate virtual machines or containers. Each instance operates independently, allowing you to run two or more instances concurrently for various purposes such as testing, development, or production environments.=__.
+1. Are files in the container persistent. Why not?. ***(1 mark)***.
+__=No, because after deleting a container in GitHub, the files inside the container are not persistent. Deleting a container typically removes all data and files associated with that container, so it's essential to ensure to have a backup of any important files before deleting a container.__.
+   
+3. Can we run two, or three instances of debian linux? ***(1 mark)***.
+
+__=Yes, you can run multiple instances of Debian Linux on separate virtual machines or containers. Each instance operates independently, allowing you to run two or more instances concurrently for various purposes such as testing, development, or production environments.=__.
 
 ## Running your own container with persistent storage
 
