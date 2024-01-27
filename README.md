@@ -99,16 +99,28 @@ codespace
 
 Look at the TERMINAL tab. Run the following commands and provide the output here. 
 
-1. Run the command **pwd** . ***(1 mark)*** __Fill answer here__.
-2. Run the command **cat /etc/passwd** . ***(1 mark)*** __Fill answer here__.
-3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
-4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
-5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
-6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
-7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
-8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __Fill answer here__.
-9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.
-10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
+1. Run the command **pwd** . ***(1 mark)*** 
+<img src="./images/q1.png" width="70%"><br>
+2. Run the command **cat /etc/passwd** . ***(1 mark)***
+<img src="./images/q2.png" width="70%"><br>
+3. Run the command **df** . ***(1 mark)***
+<img src="./images/q3.png" width="70%"><br>
+4. Run the command **du** . ***(1 mark)***
+<img src="./images/q4-a.png" width="70%">
+<img src="./images/q4-b.png" width="70%"><br>
+5. Run the command **ls** . ***(1 mark)***
+<img src="./images/q5.png" width="70%"><br>
+6. Run the command **ls -asl** . ***(1 mark)***
+<img src="./images/q6.png" width="70%"><br>
+7. Run the command **free -h** . ***(1 mark)***
+<img src="./images/q7.png" width="70%"><br>
+8. Run the command **cat /proc/cpuinfo** . ***(1 mark)***
+<img src="./images/q8-a.png" width="70%">
+<img src="./images/q8-b.png" width="70%"><br>
+9. Run the command **top** and type **q** to quit. ***(1 mark)***
+<img src="./images/q9.png" width="70%"><br>
+10. Run the command **uname -a**. ***(1 mark)***
+<img src="./images/q10.png" width="70%"><br>
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
