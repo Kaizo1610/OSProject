@@ -63,9 +63,9 @@ Team Mates:
 ***Questions:***
 
  1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***.<br>
-   = Ubuntu Linux.
+    = Ubuntu Linux.
  2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***.<br>
-   = When running GitHub Codespaces, you have two options for configuration:
+    = When running GitHub Codespaces, you have two options for configuration:
 
 Standard Configuration:
 
@@ -127,26 +127,26 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 10. Run the command **uname -a**. ***(1 mark)***
 <img src="./images/q10.png" ><br>
 11. What is the available free memory in the system. ***(1 mark)*** <br>
- = swap
+    = swap
 <br>
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** <br>
- = /dev/loop3
+    = /dev/loop3
 <br>
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** <br>
- = 18~22.04.1-Ubuntu <br>
- = x86_64 architecture
+    = 18~22.04.1-Ubuntu <br>
+    = x86_64 architecture
 <br>
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** <br>
- = The basic ls command lists files and directories in the current directory.It provides a simple listing, showing only the names of files and directories.
-While The ls -asl command provides a more detailed listing of files and directories.
+    = The basic ls command lists files and directories in the current directory.It provides a simple listing, showing only the names of files and directories.
+      While The ls -asl command provides a more detailed listing of files and directories.
 <br>
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** <br>
- = 2560 4K pages <br>
+    = 2560 4K pages <br>
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** <br>
- = Processor 0- 3202.347 MHz <br>
+    = Processor 0- 3202.347 MHz <br>
 Processor 1- 3131.957 MHz <br>
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** <br>
- = PID - 523 <br>
+    = PID - 523 <br>
 ## Running your own container instance.
 
 1. At the terminal, run a linux instance. By typing the following command. 
@@ -206,10 +206,10 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 ***Questions:***
 
 1. Are files in the container persistent. Why not?. ***(1 mark)***.<br>
-__=No, because after deleting a container in GitHub, the files inside the container are not persistent. Deleting a container typically removes all data and files associated with that container, so it's essential to ensure to have a backup of any important files before deleting a container__.
+    __=No, because after deleting a container in GitHub, the files inside the container are not persistent. Deleting a container typically removes all data and files associated with that container, so it's essential to ensure to have a backup of any important files before deleting a container__.
    
-3. Can we run two, or three instances of debian linux? ***(1 mark)***.<br>
-__=Yes, you can run multiple instances of Debian Linux on separate virtual machines or containers. Each instance operates independently, allowing you to run two or more instances concurrently for various purposes such as testing, development, or production environments__.
+2. Can we run two, or three instances of debian linux? ***(1 mark)***.<br>
+    __=Yes, you can run multiple instances of Debian Linux on separate virtual machines or containers. Each instance operates independently, allowing you to run two or more instances concurrently for various purposes such as testing, development, or production environments__.
 
 ## Running your own container with persistent storage
 
@@ -232,7 +232,7 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 <img src="./images/q1(permission).png" ><br>
     <p>User = codespace</p>
     <p>Group = codespace</p><br>
-3. Can you change the permission of the files to user codespace.  You will need this to be able to commit and get points for this question. ***(2 mark)***
+3. Can you change the permission of the files to user codespace.  You will need this to be able to commit and get points for this question. ***(2 mark)***<br>
 <img src="./images/q2(permission).png" ><br>
 
 ```bash
