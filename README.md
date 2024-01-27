@@ -57,9 +57,31 @@ Team Mates:
 
 ***Questions:***
 
-1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** __Fill answer here__.
-2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** __Fill answer here__.
-3. Why must we commit and sync our current work on source control? ***(1 mark)*** __Fill answer here__.
+1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***
+   = __Ubuntu Linux__.
+2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***
+   = When running GitHub Codespaces, you have two options for configuration:
+
+Standard Configuration:
+
+RAM: 4 GB
+Disk: 32 GB
+vCPU: 2
+Premium Configuration:
+
+RAM: 8 GB
+Disk: 64 GB
+vCPU: 4.
+3. Why must we commit and sync our current work on source control? ***(1 mark)*** 
+= Committing and syncing current work on source control is crucial for several reasons:
+
+Version Control: It helps maintain a history of changes, enabling you to revert to previous states if needed.
+Collaboration: Allows team members to share and integrate their work seamlessly.
+Backup: Safeguards your work against accidental loss or corruption.
+Traceability: Provides a clear record of who made which changes and when.
+Deployment: Facilitates the deployment of stable and tested code to production environments.
+
+Overall, committing and syncing work ensures accountability, collaboration, and the safety of your project's codebase. 
 
 ## Exploring the Terminal
 
