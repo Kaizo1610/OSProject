@@ -6,7 +6,7 @@ Section: 1
 
 Team Mates:
 1. Mohamad Aiman Akim Bin Adanan (2113823)
-2. Marjan and __matric no__
+2. Marjan Syamimi Binti Mohd Rosdi (2116018)
 3. Mazidah Aiman binti Awang (2118882)
 
 ## Rules
@@ -121,13 +121,19 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 <img src="./images/q9.png" ><br>
 10. Run the command **uname -a**. ***(1 mark)***
 <img src="./images/q10.png" ><br>
-11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
-12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
-13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
-14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
-15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+11. What is the available free memory in the system. ***(1 mark)*** 
+![image](https://github.com/Kaizo1610/OSProject/assets/145822864/918e3d3d-16c7-4631-97aa-be60b0025b51)
+<br>
+13. What is the available disk space mounted on /workspace. ***(1 mark)***
+![image](https://github.com/Kaizo1610/OSProject/assets/145822864/80e67218-79db-4897-a668-9fb57d664816)
+<br>
+15. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)***
+    ![image](https://github.com/Kaizo1610/OSProject/assets/145822864/8f63ba01-cbce-497e-935a-03a9b4064cf1)
+<br>
+17. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
+18. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+19. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+20. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
 
 ## Running your own container instance.
 
