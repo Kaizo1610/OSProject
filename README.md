@@ -57,9 +57,9 @@ Team Mates:
 
 ***Questions:***
 
-## 1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***
+ __1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)***__.
    = Ubuntu Linux.
-## 2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***
+ __2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)***__.
    = When running GitHub Codespaces, you have two options for configuration:
 
 Standard Configuration:
@@ -73,7 +73,7 @@ RAM: 8 GB
 Disk: 64 GB
 vCPU: 4.
 
-##  3. Why must we commit and sync our current work on source control? ***(1 mark)*** 
+__3. Why must we commit and sync our current work on source control? ***(1 mark)***__. 
 = Committing and syncing current work on source control is crucial for several reasons:
 
 Version Control: It helps maintain a history of changes, enabling you to revert to previous states if needed.
