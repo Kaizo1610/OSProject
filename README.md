@@ -122,13 +122,13 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 10. Run the command **uname -a**. ***(1 mark)***
 <img src="./images/q10.png" ><br>
 11. What is the available free memory in the system. ***(1 mark)*** 
-![image](https://github.com/Kaizo1610/OSProject/assets/145822864/918e3d3d-16c7-4631-97aa-be60b0025b51)
+
 <br>
 13. What is the available disk space mounted on /workspace. ***(1 mark)***
-![image](https://github.com/Kaizo1610/OSProject/assets/145822864/80e67218-79db-4897-a668-9fb57d664816)
+
 <br>
 15. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)***
-    ![image](https://github.com/Kaizo1610/OSProject/assets/145822864/8f63ba01-cbce-497e-935a-03a9b4064cf1)
+
 <br>
 17. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
 18. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
