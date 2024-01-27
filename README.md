@@ -24,8 +24,9 @@ Team Mates:
 
 ***Questions:***
 
-1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __Fill answer here__.
-2. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
+1. What is the link of the fork OSProject in your repository. ***(1 mark)***
+
+2. How many files and folders are in this repository. ***(1 mark)*** 
 
 
 ## Exploring github codespaces
@@ -223,7 +224,7 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 
 ***Questions:***
 
-1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)***
+1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)***<br>
 <img src="./images/q1(permission).png" ><br>
 <p>User = codespace</p>
 <p>Group = codespace</p><br>
